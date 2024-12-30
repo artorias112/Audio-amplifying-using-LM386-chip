@@ -16,8 +16,9 @@ IC Socket (1)
 Resistor (100 ohms) (1)
 Potentiometer (10k ohms) (1)
 Circuit Diagram
-[Insert your schematic image here]
-Example: ![Audio Amplifier Schematic](audio amplify circuit/schematics.jpg)
+
+![Audio Amplifier Schematic](audio%20amplify%20circuit/schematics.jpg)
+
 
 Schematic
 Here is the schematic for the audio amplifier circuit:
