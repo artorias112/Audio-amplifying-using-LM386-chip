@@ -17,7 +17,7 @@ Resistor (100 ohms) (1)
 Potentiometer (10k ohms) (1)
 Circuit Diagram
 [Insert your schematic image here]
-Example: ![Audio Amplifier Schematic](audio-amplifier-schematic.png)
+Example: ![Audio Amplifier Schematic]([audio-amplifier-schematic.png](https://github.com/artorias112/Audio-amplifying-using-LM386-chip/blob/main/audio%20amplify%20circuit/schematics.jpg?raw=true))
 
 Schematic
 Here is the schematic for the audio amplifier circuit:
