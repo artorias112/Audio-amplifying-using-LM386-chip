@@ -38,4 +38,5 @@ Connect the Input Source: Attach the audio input source (e.g., smartphone, MP3 p
 Adjust the Volume: Use the potentiometer to adjust the volume level.
 Power On the Circuit: Turn on the power supply and play audio from the input source.
 Listen to the Amplified Sound: The speaker should output the amplified audio signal.
-PHOTOS:(audio amplify circuit/ci.jpg)
+![Audio Amplifier Schematic](audio%20amplify%20circuit/ci.jpg)
+
