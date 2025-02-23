@@ -41,5 +41,6 @@ Adjust the Volume: Use the potentiometer to adjust the volume level.
 Power On the Circuit: Turn on the power supply and play audio from the input source.
 Listen to the Amplified Sound: The speaker should output the amplified audio signal.
 ![Audio Amplifier Schematic](audio%20amplify%20circuit/ci.jpg)
+
 [Preview Video](https://vimeo.com/1059507038?share=copy#t=0)
 
