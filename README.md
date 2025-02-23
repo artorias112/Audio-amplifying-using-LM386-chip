@@ -18,6 +18,8 @@ Potentiometer (10k ohms) (1)
 Circuit Diagram
 
 ![Audio Amplifier Schematic](audio%20amplify%20circuit/schematics.jpg)
+
+
 [Preview Video](https://vimeo.com/1059507038?share=copy#t=0)
 
 
